@@ -1,3 +1,7 @@
+A program implemented for my Operating Systems course meant to explore the difference between thread-based vs process-based 
+execution of a given mergesort implementation.
+
+
 The program will need to be compiled using two different commands depending on if PROCESS or THREAD macro is being tested. 
 
 For the PROCESS version use the following compile commands:
